@@ -20,13 +20,15 @@
 
 ## 🛠️ My Favorite Programming Languages
 
-> Front-End | Back-End Development
-- HTML5/CSS3
-- JavaScript
-- TypeScript
-- NodeJS
-- Python
-- PHP
+My main skills are follow:
+- Python, Ruby on Rails, Perl, PHP, Java, C#, C++ and Qt
+- Angular.js, React.js, Vue.js,Electron, Ember.js, Backbone.js, Marionette.js, Knockout.js and Node
+- Django, Flask, Pyramid, Spring MVC, Codeigniter, Wordpress, Woocommerce, Shopify and Laravel Framework
+- Android and IOS app development. 
+- Jasmine, Mocha, Chai, Karma, Protractor 
+- Oracle, MySQL, IBM DB2, MSSQL, PostgreSQL 
+- AWS EC2, S3, ElasticBeanstalk, RDS, SQS, SES, ElasticSearch 
+- Source management: Git, SVN 
 
 <br>
 
