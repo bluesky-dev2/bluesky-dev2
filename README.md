@@ -94,7 +94,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=goldpal&no-bg=true&column=7&theme=tokyonight&margin-w=15" alt="trophy-niclas" height="180px"/>
 </p>
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=goldpal&theme=react-dark)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bluesky-dev2&theme=react-dark)
 
 <p align="center">
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=goldpal&theme=highcontrast&hide_border=true"/>
