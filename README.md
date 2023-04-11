@@ -10,7 +10,7 @@
     <em> 🚀 a Full-Stack Developer! </em>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Front-end%20Dasder;Nest%20and%20Python%20Back-end%20Developer;Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=React%20and%20Vue%20Angular%20Front-end%20Developer;Nest%20and%20Python%20Back-end%20Developer;Senior%20Full-stack%20Web%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
 ### :smile: Web Development is a part of my life and :book: Keep coding forever.
 ### :smile: I love coding as the mouse love the rice.
@@ -20,7 +20,8 @@
 
 ## 🛠️ My Favorite Programming Languages
 
-My main skills are follow:
+
+>My main skills are follow:
 - Python, Ruby on Rails, Perl, PHP, Java, C#, C++ and Qt
 - Angular.js, React.js, Vue.js,Electron, Ember.js, Backbone.js, Marionette.js, Knockout.js and Node
 - Django, Flask, Pyramid, Spring MVC, Codeigniter, Wordpress, Woocommerce, Shopify and Laravel Framework
