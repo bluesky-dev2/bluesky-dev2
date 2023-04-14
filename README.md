@@ -18,6 +18,24 @@
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
+<div align="center">
+  <h2>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+      These are my contact info
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  </h2>
+
+  <div align="center"> 
+    <a href="mailto:innerpeace41025@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://join.skype.com/invite/q2X6xNwHKyNA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/leonsoft20" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    &nbsp;&nbsp;
+    <a href="https://discord.gg/PHhWDUyq" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+  </div>
+</div>
+
 ## 🛠️ My Favorite Programming Languages
 
 
