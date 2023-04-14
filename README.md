@@ -6,7 +6,7 @@
 <meta name="back-end" />
 <meta name="full-stack"/>
 <h1 align="left">
-    <em>Welcome! </em> <img src="source/Hi.gif" height="37px" width="30px">, <em> I'm </em>
+    <em>Welcome! </em> <img src="source/Hi.gif" height="37px" width="30px"> <em> I'm </em>
     <em> 🚀 a Full-Stack Developer! </em>
 </h1>
 
