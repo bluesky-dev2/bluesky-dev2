@@ -30,7 +30,7 @@
     &nbsp;&nbsp;
     <a href="https://join.skype.com/invite/xHmBSk3h2aAX" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/leonsoft20" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <a href="https://t.me/Eros1015" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://discord.gg/x5JvJjJD" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
